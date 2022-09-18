@@ -1,0 +1,35 @@
+.Noticeboard-head{
+    background-color: rgb(55, 117, 189);
+    color:#fff;
+    width:100%;
+    margin: 15px 15px;
+    padding: 15px 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-family: sans-serif;
+}
+.Noticeboard-head h3{
+    margin: 0;
+    padding: 2px;
+}
+.Noticeboard-head p{
+    color: lightgrey;
+    margin: 0;
+    padding: 2px;
+}
+.box{
+    width: 40vh;
+    font-weight: bold;
+    color: #fff;
+    font-family: sans-serif;
+    margin: 5px 15px;
+    padding: 15px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.box hr{
+border-color: rgba(0, 0, 0, 0.1);
+}
+.btn{
+    text-align: right;
+}

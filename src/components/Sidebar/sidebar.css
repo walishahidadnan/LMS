@@ -1,0 +1,40 @@
+
+.sidebar{
+    background-color: rgba(5, 35, 83, 0.904);
+    width: 280px;
+}
+.sidebar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 30px;
+}
+.sidebar ul li{
+    padding: 20px 0;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-weight: lighter;
+}
+.sidebar ul li a{
+    color: rgba(206, 205, 205, 0.952);
+    text-decoration: none;
+}
+.sidebar ul li a:hover{
+    color: white;
+}
+.sidebar ul li:last-child{
+    padding-bottom: 100px;
+}
+.sidebar ul li .Icn{
+    color: burlywood;
+    margin-right:8px;
+}
+.sidebar ul li .right-Icn{
+    color: rgba(206, 205, 205, 0.952);
+    font-size: 14px;
+    margin-left:50px;
+}
+.sidebar ul li .right-Icn:hover{
+    color: white; 
+}
+

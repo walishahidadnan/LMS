@@ -1,0 +1,42 @@
+.Timetable-head{
+    background-color: rgb(55, 117, 189);
+    color:#fff;
+    margin: 0 15px;
+    margin-top: 15px;
+    padding: 15px 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-family: sans-serif;
+}
+.Timetable-head h3{
+    margin: 0;
+    padding: 2px;
+}
+.Timetable-head p{
+    color: lightgrey;
+    margin: 0;
+    padding: 2px;
+}
+
+/* style of table */
+table{
+    background-color:#fff;
+    width: 97.6%;
+    border-collapse: collapse;
+    border: 1px solid rgb(192, 191, 191);
+    margin-left:15px;
+}
+table th{
+    text-align: start;
+    font-size: 15px;
+    color: black;
+}
+th, td{
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: rgb(116, 115, 115);
+}
+tr:nth-child(even){
+    background-color: rgba(211, 211, 211, 0.445);
+}

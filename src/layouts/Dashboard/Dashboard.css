@@ -1,0 +1,16 @@
+/* style of Dashboard */
+.Board{
+    width: 230px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin: 15px;
+    border-radius: 5px;
+    padding: 25px;
+    flex-wrap: wrap;
+}
+.Board .icon{
+    font-size: 40px;
+    padding-top:40px;
+}

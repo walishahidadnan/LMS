@@ -1,0 +1,19 @@
+.Courses-heading{
+    background-color: rgb(41, 117, 204);
+    color: #fff;
+    font-family: sans-serif;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin: 10px 8px;
+    padding: 12px 10px;
+}
+.Courses-heading h3{
+    font-weight: lighter;
+    margin: 0;
+   
+}
+.Courses-heading p{
+    color: lightgray;
+    margin: 0;
+    padding: 1px;
+}

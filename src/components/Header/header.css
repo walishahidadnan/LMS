@@ -1,0 +1,40 @@
+/* style of body */
+body{
+    margin: 0;
+}
+
+/* style of maxin div */
+.main{
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+}
+.main .head{
+flex: 1;
+}
+.main .head-1{
+    flex: 3;
+    padding-left: 25px;
+}
+.main .head-2{
+    flex:1;
+    text-align: end;
+}
+.main .head-1 h2{
+    font-family:sans-serif ;
+    text-transform: capitalize;
+    text-align: left;
+    color: rgba(7, 77, 189, 0.904);
+    font-size: 22px;
+}
+.main .head-1 h2 sub{
+    background-color: rgba(7, 72, 175, 0.945);
+    color: rgb(228, 222, 222);
+    height: 30px;
+    padding: 5px;
+    font-size: 12px;
+    margin-left: 5px;
+}

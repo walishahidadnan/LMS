@@ -1,0 +1,16 @@
+.Main-Div{
+    width: 100%;
+    display: flex;
+    margin: 0;
+}
+
+/* style of Dashbaord */
+.Dashboard{
+    background-color: lightgray;
+    width: 83%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+

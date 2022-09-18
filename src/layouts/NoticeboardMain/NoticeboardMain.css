@@ -1,0 +1,11 @@
+/* style of Noticeboard-main Boxes is here */
+
+#card-1{
+    background-color: rgb(158, 66, 24);
+}
+#card-2{
+    background-color:#000;
+}
+#card-3{
+    background-color: rgba(158, 66, 24, 0.253);
+}
