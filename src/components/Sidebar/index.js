@@ -11,7 +11,6 @@ import { HomeFilled, AliyunOutlined, TransactionOutlined, TagFilled, RightOutlin
 function Sidebar() {
     return (
         <div>
-            {/* code of Sidebar is here */}
             <ul>
                 <li >
                     <Link to="/Home/dashboard">
