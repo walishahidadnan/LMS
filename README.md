@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is the deployed UI of the project: https://lms-rho-nine.vercel.app/Login
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
